@@ -1,0 +1,4 @@
+login: 登录
+username: id>com.taobao.taobao:id/aliuser_login_mobile_et
+password: android>resourceId("com.taobao.taobao:id/aliuser_register_sms_code_et")
+login_button: className>android.widget.Button

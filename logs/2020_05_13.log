@@ -1,0 +1,310 @@
+[2020-05-13 18:10:34,168]-anjing-INFO-测试设备列表：emulator-5554
+[2020-05-13 18:10:34,169]-anjing-INFO-输入adb命令，启动appium服务，输入命令如下：appium -p 4723 -U emulator-5554 --log  E:\appium_python\logs\appium_log.txt
+[2020-05-13 18:10:52,050]-anjing-INFO-app启动中
+[2020-05-13 18:10:52,050]-anjing-INFO-app启动中
+[2020-05-13 18:10:53,602]-anjing-INFO-测试设备列表：emulator-5554
+[2020-05-13 18:10:53,602]-anjing-INFO-测试设备列表：emulator-5554
+[2020-05-13 18:10:53,603]-anjing-INFO-输入adb命令，启动appium服务，输入命令如下：appium -p 4723 -U emulator-5554 --log  E:\appium_python\logs\appium_log.txt
+[2020-05-13 18:10:53,603]-anjing-INFO-输入adb命令，启动appium服务，输入命令如下：appium -p 4723 -U emulator-5554 --log  E:\appium_python\logs\appium_log.txt
+[2020-05-13 18:11:30,547]-anjing-INFO-app启动完成
+[2020-05-13 18:11:30,547]-anjing-INFO-app启动完成
+[2020-05-13 18:11:30,549]-anjing-INFO-用例名称：账号密码错误，测试数据：账号名：11111，密码：22222,
+[2020-05-13 18:11:30,549]-anjing-INFO-用例名称：账号密码错误，测试数据：账号名：11111，密码：22222,
+[2020-05-13 18:11:30,550]-element.py-INFO-正在获取用户名元素信息---------------------------------------
+[2020-05-13 18:11:30,557]-element.py-INFO-用户名元素信息为：{'name': '用户名', 'type': 'id', 'value': 'com.taobao.taobao:id/aliuser_login_mobile_et'}
+[2020-05-13 18:11:30,558]-Base.py-INFO-正在操作元素名称"用户名",定位方法: id-->com.taobao.taobao:id/aliuser_login_mobile_et
+[2020-05-13 18:11:34,755]-element.py-INFO-正在获取用户名元素信息-------------------------------------
+[2020-05-13 18:11:34,762]-element.py-INFO-密码元素信息为：{'name': '密码', 'type': 'android', 'value': 'resourceId("com.taobao.taobao:id/aliuser_register_sms_code_et")'}
+[2020-05-13 18:11:34,762]-Base.py-INFO-正在操作元素名称"密码",定位方法: android-->resourceId("com.taobao.taobao:id/aliuser_register_sms_code_et")
+[2020-05-13 18:11:36,262]-element.py-INFO-正在获取用户名元素信息-------------------------------------
+[2020-05-13 18:11:36,269]-element.py-INFO-登录按钮元素信息为：{'name': '登录按钮', 'type': 'className', 'value': 'android.widget.Button'}
+[2020-05-13 18:11:36,269]-Base.py-INFO-正在操作元素名称"登录按钮",定位方法: className-->android.widget.Button
+[2020-05-13 18:11:37,732]-anjing-INFO-test01获取toast信息为：请输入正确的手机号
+[2020-05-13 18:11:37,732]-anjing-INFO-test01获取toast信息为：请输入正确的手机号
+[2020-05-13 18:11:37,733]-anjing-INFO-用例名称：账号密码错误1，测试数据：账号名：222，密码：33333,
+[2020-05-13 18:11:37,733]-anjing-INFO-用例名称：账号密码错误1，测试数据：账号名：222，密码：33333,
+[2020-05-13 18:11:37,733]-element.py-INFO-正在获取用户名元素信息---------------------------------------
+[2020-05-13 18:11:37,739]-element.py-INFO-用户名元素信息为：{'name': '用户名', 'type': 'id', 'value': 'com.taobao.taobao:id/aliuser_login_mobile_et'}
+[2020-05-13 18:11:37,739]-Base.py-INFO-正在操作元素名称"用户名",定位方法: id-->com.taobao.taobao:id/aliuser_login_mobile_et
+[2020-05-13 18:11:38,381]-element.py-INFO-正在获取用户名元素信息-------------------------------------
+[2020-05-13 18:11:38,387]-element.py-INFO-密码元素信息为：{'name': '密码', 'type': 'android', 'value': 'resourceId("com.taobao.taobao:id/aliuser_register_sms_code_et")'}
+[2020-05-13 18:11:38,387]-Base.py-INFO-正在操作元素名称"密码",定位方法: android-->resourceId("com.taobao.taobao:id/aliuser_register_sms_code_et")
+[2020-05-13 18:11:39,584]-element.py-INFO-正在获取用户名元素信息-------------------------------------
+[2020-05-13 18:11:39,592]-element.py-INFO-登录按钮元素信息为：{'name': '登录按钮', 'type': 'className', 'value': 'android.widget.Button'}
+[2020-05-13 18:11:39,593]-Base.py-INFO-正在操作元素名称"登录按钮",定位方法: className-->android.widget.Button
+[2020-05-13 18:11:40,823]-anjing-INFO-test02获取toast信息为：请输入正确的手机号
+[2020-05-13 18:11:40,823]-anjing-INFO-test02获取toast信息为：请输入正确的手机号
+[2020-05-13 18:21:38,306]-anjing-INFO-测试设备列表：emulator-5554
+[2020-05-13 18:21:38,307]-anjing-INFO-输入adb命令，启动appium服务，输入命令如下：appium -p 4723 -U emulator-5554 --log  E:\appium_python\logs\appium_log.txt
+[2020-05-13 18:21:56,070]-anjing-INFO-app启动中
+[2020-05-13 18:21:56,070]-anjing-INFO-app启动中
+[2020-05-13 18:21:57,593]-anjing-INFO-测试设备列表：emulator-5554
+[2020-05-13 18:21:57,593]-anjing-INFO-测试设备列表：emulator-5554
+[2020-05-13 18:21:57,594]-anjing-INFO-输入adb命令，启动appium服务，输入命令如下：appium -p 4723 -U emulator-5554 --log  E:\appium_python\logs\appium_log.txt
+[2020-05-13 18:21:57,594]-anjing-INFO-输入adb命令，启动appium服务，输入命令如下：appium -p 4723 -U emulator-5554 --log  E:\appium_python\logs\appium_log.txt
+[2020-05-13 18:22:35,440]-anjing-INFO-app启动完成
+[2020-05-13 18:22:35,440]-anjing-INFO-app启动完成
+[2020-05-13 18:22:35,441]-anjing-INFO-用例名称：账号密码错误，测试数据：账号名：11111，密码：22222,
+[2020-05-13 18:22:35,441]-anjing-INFO-用例名称：账号密码错误，测试数据：账号名：11111，密码：22222,
+[2020-05-13 18:22:35,442]-element.py-INFO-正在获取用户名元素信息---------------------------------------
+[2020-05-13 18:22:35,449]-element.py-INFO-用户名元素信息为：{'name': '用户名', 'type': 'id', 'value': 'com.taobao.taobao:id/aliuser_login_mobile_et'}
+[2020-05-13 18:22:35,449]-Base.py-INFO-正在操作元素名称"用户名",定位方法: id-->com.taobao.taobao:id/aliuser_login_mobile_et
+[2020-05-13 18:22:39,364]-element.py-INFO-正在获取用户名元素信息-------------------------------------
+[2020-05-13 18:22:39,370]-element.py-INFO-密码元素信息为：{'name': '密码', 'type': 'android', 'value': 'resourceId("com.taobao.taobao:id/aliuser_register_sms_code_et")'}
+[2020-05-13 18:22:39,370]-Base.py-INFO-正在操作元素名称"密码",定位方法: android-->resourceId("com.taobao.taobao:id/aliuser_register_sms_code_et")
+[2020-05-13 18:22:41,008]-element.py-INFO-正在获取用户名元素信息-------------------------------------
+[2020-05-13 18:22:41,014]-element.py-INFO-登录按钮元素信息为：{'name': '登录按钮', 'type': 'className', 'value': 'android.widget.Button'}
+[2020-05-13 18:22:41,014]-Base.py-INFO-正在操作元素名称"登录按钮",定位方法: className-->android.widget.Button
+[2020-05-13 18:22:42,597]-anjing-INFO-test01获取toast信息为：请输入正确的手机号
+[2020-05-13 18:22:42,597]-anjing-INFO-test01获取toast信息为：请输入正确的手机号
+[2020-05-13 18:22:42,598]-anjing-INFO-用例名称：账号密码错误1，测试数据：账号名：222，密码：33333,
+[2020-05-13 18:22:42,598]-anjing-INFO-用例名称：账号密码错误1，测试数据：账号名：222，密码：33333,
+[2020-05-13 18:22:42,598]-element.py-INFO-正在获取用户名元素信息---------------------------------------
+[2020-05-13 18:22:42,603]-element.py-INFO-用户名元素信息为：{'name': '用户名', 'type': 'id', 'value': 'com.taobao.taobao:id/aliuser_login_mobile_et'}
+[2020-05-13 18:22:42,604]-Base.py-INFO-正在操作元素名称"用户名",定位方法: id-->com.taobao.taobao:id/aliuser_login_mobile_et
+[2020-05-13 18:22:43,201]-element.py-INFO-正在获取用户名元素信息-------------------------------------
+[2020-05-13 18:22:43,207]-element.py-INFO-密码元素信息为：{'name': '密码', 'type': 'android', 'value': 'resourceId("com.taobao.taobao:id/aliuser_register_sms_code_et")'}
+[2020-05-13 18:22:43,208]-Base.py-INFO-正在操作元素名称"密码",定位方法: android-->resourceId("com.taobao.taobao:id/aliuser_register_sms_code_et")
+[2020-05-13 18:22:44,335]-element.py-INFO-正在获取用户名元素信息-------------------------------------
+[2020-05-13 18:22:44,340]-element.py-INFO-登录按钮元素信息为：{'name': '登录按钮', 'type': 'className', 'value': 'android.widget.Button'}
+[2020-05-13 18:22:44,341]-Base.py-INFO-正在操作元素名称"登录按钮",定位方法: className-->android.widget.Button
+[2020-05-13 18:22:45,588]-anjing-INFO-test02获取toast信息为：请输入正确的手机号
+[2020-05-13 18:22:45,588]-anjing-INFO-test02获取toast信息为：请输入正确的手机号
+[2020-05-13 18:22:45,590]-anjing-ERROR-报错信息是'请输入正确的手机号' != '请输入正确的号'
+- 请输入正确的手机号
+?       --
++ 请输入正确的号
+
+[2020-05-13 18:22:45,590]-anjing-ERROR-报错信息是'请输入正确的手机号' != '请输入正确的号'
+- 请输入正确的手机号
+?       --
++ 请输入正确的号
+
+[2020-05-13 18:24:14,073]-anjing-INFO-测试设备列表：emulator-5554
+[2020-05-13 18:24:14,074]-anjing-INFO-输入adb命令，启动appium服务，输入命令如下：appium -p 4723 -U emulator-5554 --log  E:\appium_python\logs\appium_log.txt
+[2020-05-13 18:24:31,640]-anjing-INFO-app启动中
+[2020-05-13 18:24:31,640]-anjing-INFO-app启动中
+[2020-05-13 18:24:33,221]-anjing-INFO-测试设备列表：emulator-5554
+[2020-05-13 18:24:33,221]-anjing-INFO-测试设备列表：emulator-5554
+[2020-05-13 18:24:33,222]-anjing-INFO-输入adb命令，启动appium服务，输入命令如下：appium -p 4723 -U emulator-5554 --log  E:\appium_python\logs\appium_log.txt
+[2020-05-13 18:24:33,222]-anjing-INFO-输入adb命令，启动appium服务，输入命令如下：appium -p 4723 -U emulator-5554 --log  E:\appium_python\logs\appium_log.txt
+[2020-05-13 18:25:11,551]-anjing-INFO-app启动完成
+[2020-05-13 18:25:11,551]-anjing-INFO-app启动完成
+[2020-05-13 18:25:11,553]-anjing-INFO-用例名称：账号密码错误，测试数据：账号名：11111，密码：22222,
+[2020-05-13 18:25:11,553]-anjing-INFO-用例名称：账号密码错误，测试数据：账号名：11111，密码：22222,
+[2020-05-13 18:25:11,553]-element.py-INFO-正在获取用户名元素信息---------------------------------------
+[2020-05-13 18:25:11,561]-element.py-INFO-用户名元素信息为：{'name': '用户名', 'type': 'id', 'value': 'com.taobao.taobao:id/aliuser_login_mobile_et'}
+[2020-05-13 18:25:11,561]-Base.py-INFO-正在操作元素名称"用户名",定位方法: id-->com.taobao.taobao:id/aliuser_login_mobile_et
+[2020-05-13 18:25:15,465]-element.py-INFO-正在获取用户名元素信息-------------------------------------
+[2020-05-13 18:25:15,470]-element.py-INFO-密码元素信息为：{'name': '密码', 'type': 'android', 'value': 'resourceId("com.taobao.taobao:id/aliuser_register_sms_code_et")'}
+[2020-05-13 18:25:15,471]-Base.py-INFO-正在操作元素名称"密码",定位方法: android-->resourceId("com.taobao.taobao:id/aliuser_register_sms_code_et")
+[2020-05-13 18:25:17,419]-element.py-INFO-正在获取用户名元素信息-------------------------------------
+[2020-05-13 18:25:17,424]-element.py-INFO-登录按钮元素信息为：{'name': '登录按钮', 'type': 'className', 'value': 'android.widget.Button'}
+[2020-05-13 18:25:17,424]-Base.py-INFO-正在操作元素名称"登录按钮",定位方法: className-->android.widget.Button
+[2020-05-13 18:25:18,830]-anjing-INFO-test01获取toast信息为：请输入正确的手机号
+[2020-05-13 18:25:18,830]-anjing-INFO-test01获取toast信息为：请输入正确的手机号
+[2020-05-13 18:25:18,831]-anjing-INFO-用例名称：账号密码错误1，测试数据：账号名：222，密码：33333,
+[2020-05-13 18:25:18,831]-anjing-INFO-用例名称：账号密码错误1，测试数据：账号名：222，密码：33333,
+[2020-05-13 18:25:18,831]-element.py-INFO-正在获取用户名元素信息---------------------------------------
+[2020-05-13 18:25:18,836]-element.py-INFO-用户名元素信息为：{'name': '用户名', 'type': 'id', 'value': 'com.taobao.taobao:id/aliuser_login_mobile_et'}
+[2020-05-13 18:25:18,837]-Base.py-INFO-正在操作元素名称"用户名",定位方法: id-->com.taobao.taobao:id/aliuser_login_mobile_et
+[2020-05-13 18:25:19,814]-element.py-INFO-正在获取用户名元素信息-------------------------------------
+[2020-05-13 18:25:19,819]-element.py-INFO-密码元素信息为：{'name': '密码', 'type': 'android', 'value': 'resourceId("com.taobao.taobao:id/aliuser_register_sms_code_et")'}
+[2020-05-13 18:25:19,819]-Base.py-INFO-正在操作元素名称"密码",定位方法: android-->resourceId("com.taobao.taobao:id/aliuser_register_sms_code_et")
+[2020-05-13 18:25:20,988]-element.py-INFO-正在获取用户名元素信息-------------------------------------
+[2020-05-13 18:25:20,993]-element.py-INFO-登录按钮元素信息为：{'name': '登录按钮', 'type': 'className', 'value': 'android.widget.Button'}
+[2020-05-13 18:25:20,994]-Base.py-INFO-正在操作元素名称"登录按钮",定位方法: className-->android.widget.Button
+[2020-05-13 18:25:22,187]-anjing-INFO-test02获取toast信息为：请输入正确的手机号
+[2020-05-13 18:25:22,187]-anjing-INFO-test02获取toast信息为：请输入正确的手机号
+[2020-05-13 18:25:22,189]-anjing-ERROR-报错信息是'请输入正确的手机号' != '请输入正确的号'
+- 请输入正确的手机号
+?       --
++ 请输入正确的号
+
+[2020-05-13 18:25:22,189]-anjing-ERROR-报错信息是'请输入正确的手机号' != '请输入正确的号'
+- 请输入正确的手机号
+?       --
++ 请输入正确的号
+
+[2020-05-13 18:26:32,117]-anjing-INFO-测试设备列表：emulator-5554
+[2020-05-13 18:26:32,118]-anjing-INFO-输入adb命令，启动appium服务，输入命令如下：appium -p 4723 -U emulator-5554 --log  E:\appium_python\logs\appium_log.txt
+[2020-05-13 18:26:49,797]-anjing-INFO-app启动中
+[2020-05-13 18:26:49,797]-anjing-INFO-app启动中
+[2020-05-13 18:26:51,637]-anjing-INFO-测试设备列表：emulator-5554
+[2020-05-13 18:26:51,637]-anjing-INFO-测试设备列表：emulator-5554
+[2020-05-13 18:26:51,637]-anjing-INFO-输入adb命令，启动appium服务，输入命令如下：appium -p 4723 -U emulator-5554 --log  E:\appium_python\logs\appium_log.txt
+[2020-05-13 18:26:51,637]-anjing-INFO-输入adb命令，启动appium服务，输入命令如下：appium -p 4723 -U emulator-5554 --log  E:\appium_python\logs\appium_log.txt
+[2020-05-13 18:27:29,950]-anjing-INFO-app启动完成
+[2020-05-13 18:27:29,950]-anjing-INFO-app启动完成
+[2020-05-13 18:27:29,953]-anjing-INFO-用例名称：账号密码错误，测试数据：账号名：11111，密码：22222,
+[2020-05-13 18:27:29,953]-anjing-INFO-用例名称：账号密码错误，测试数据：账号名：11111，密码：22222,
+[2020-05-13 18:27:29,953]-element.py-INFO-正在获取用户名元素信息---------------------------------------
+[2020-05-13 18:27:29,962]-element.py-INFO-用户名元素信息为：{'name': '用户名', 'type': 'id', 'value': 'com.taobao.taobao:id/aliuser_login_mobile_et'}
+[2020-05-13 18:27:29,962]-Base.py-INFO-正在操作元素名称"用户名",定位方法: id-->com.taobao.taobao:id/aliuser_login_mobile_et
+[2020-05-13 18:27:37,261]-element.py-INFO-正在获取用户名元素信息-------------------------------------
+[2020-05-13 18:27:37,267]-element.py-INFO-密码元素信息为：{'name': '密码', 'type': 'android', 'value': 'resourceId("com.taobao.taobao:id/aliuser_register_sms_code_et")'}
+[2020-05-13 18:27:37,268]-Base.py-INFO-正在操作元素名称"密码",定位方法: android-->resourceId("com.taobao.taobao:id/aliuser_register_sms_code_et")
+[2020-05-13 18:27:38,490]-element.py-INFO-正在获取用户名元素信息-------------------------------------
+[2020-05-13 18:27:38,498]-element.py-INFO-登录按钮元素信息为：{'name': '登录按钮', 'type': 'className', 'value': 'android.widget.Button'}
+[2020-05-13 18:27:38,498]-Base.py-INFO-正在操作元素名称"登录按钮",定位方法: className-->android.widget.Button
+[2020-05-13 18:27:39,784]-anjing-INFO-test01获取toast信息为：请输入正确的手机号
+[2020-05-13 18:27:39,784]-anjing-INFO-test01获取toast信息为：请输入正确的手机号
+[2020-05-13 18:27:39,785]-anjing-INFO-用例名称：账号密码错误1，测试数据：账号名：222，密码：33333,
+[2020-05-13 18:27:39,785]-anjing-INFO-用例名称：账号密码错误1，测试数据：账号名：222，密码：33333,
+[2020-05-13 18:27:39,785]-element.py-INFO-正在获取用户名元素信息---------------------------------------
+[2020-05-13 18:27:39,790]-element.py-INFO-用户名元素信息为：{'name': '用户名', 'type': 'id', 'value': 'com.taobao.taobao:id/aliuser_login_mobile_et'}
+[2020-05-13 18:27:39,791]-Base.py-INFO-正在操作元素名称"用户名",定位方法: id-->com.taobao.taobao:id/aliuser_login_mobile_et
+[2020-05-13 18:27:40,461]-element.py-INFO-正在获取用户名元素信息-------------------------------------
+[2020-05-13 18:27:40,467]-element.py-INFO-密码元素信息为：{'name': '密码', 'type': 'android', 'value': 'resourceId("com.taobao.taobao:id/aliuser_register_sms_code_et")'}
+[2020-05-13 18:27:40,467]-Base.py-INFO-正在操作元素名称"密码",定位方法: android-->resourceId("com.taobao.taobao:id/aliuser_register_sms_code_et")
+[2020-05-13 18:27:41,837]-element.py-INFO-正在获取用户名元素信息-------------------------------------
+[2020-05-13 18:27:41,843]-element.py-INFO-登录按钮元素信息为：{'name': '登录按钮', 'type': 'className', 'value': 'android.widget.Button'}
+[2020-05-13 18:27:41,843]-Base.py-INFO-正在操作元素名称"登录按钮",定位方法: className-->android.widget.Button
+[2020-05-13 18:27:42,994]-anjing-INFO-test02获取toast信息为：请输入正确的手机号
+[2020-05-13 18:27:42,994]-anjing-INFO-test02获取toast信息为：请输入正确的手机号
+[2020-05-13 18:27:42,997]-anjing-ERROR-报错信息是'请输入正确的手机号' != '请输入正确的号'
+- 请输入正确的手机号
+?       --
++ 请输入正确的号
+
+[2020-05-13 18:27:42,997]-anjing-ERROR-报错信息是'请输入正确的手机号' != '请输入正确的号'
+- 请输入正确的手机号
+?       --
++ 请输入正确的号
+
+[2020-05-13 18:30:39,312]-anjing-INFO-app启动中
+[2020-05-13 18:30:39,312]-anjing-INFO-app启动中
+[2020-05-13 18:30:40,728]-anjing-INFO-测试设备列表：emulator-5554
+[2020-05-13 18:30:40,728]-anjing-INFO-测试设备列表：emulator-5554
+[2020-05-13 18:30:40,729]-anjing-INFO-输入adb命令，启动appium服务，输入命令如下：appium -p 4723 -U emulator-5554 --log  E:\appium_python\logs\appium_log.txt
+[2020-05-13 18:30:40,729]-anjing-INFO-输入adb命令，启动appium服务，输入命令如下：appium -p 4723 -U emulator-5554 --log  E:\appium_python\logs\appium_log.txt
+[2020-05-13 18:31:17,606]-anjing-INFO-app启动完成
+[2020-05-13 18:31:17,606]-anjing-INFO-app启动完成
+[2020-05-13 18:31:17,608]-anjing-INFO-用例名称：账号密码错误，测试数据：账号名：11111，密码：22222,
+[2020-05-13 18:31:17,608]-anjing-INFO-用例名称：账号密码错误，测试数据：账号名：11111，密码：22222,
+[2020-05-13 18:31:17,609]-element.py-INFO-正在获取用户名元素信息---------------------------------------
+[2020-05-13 18:31:17,616]-element.py-INFO-用户名元素信息为：{'name': '用户名', 'type': 'id', 'value': 'com.taobao.taobao:id/aliuser_login_mobile_et'}
+[2020-05-13 18:31:17,616]-Base.py-INFO-正在操作元素名称"用户名",定位方法: id-->com.taobao.taobao:id/aliuser_login_mobile_et
+[2020-05-13 18:31:22,545]-element.py-INFO-正在获取用户名元素信息-------------------------------------
+[2020-05-13 18:31:22,550]-element.py-INFO-密码元素信息为：{'name': '密码', 'type': 'android', 'value': 'resourceId("com.taobao.taobao:id/aliuser_register_sms_code_et")'}
+[2020-05-13 18:31:22,551]-Base.py-INFO-正在操作元素名称"密码",定位方法: android-->resourceId("com.taobao.taobao:id/aliuser_register_sms_code_et")
+[2020-05-13 18:31:25,247]-element.py-INFO-正在获取用户名元素信息-------------------------------------
+[2020-05-13 18:31:25,254]-element.py-INFO-登录按钮元素信息为：{'name': '登录按钮', 'type': 'className', 'value': 'android.widget.Button'}
+[2020-05-13 18:31:25,254]-Base.py-INFO-正在操作元素名称"登录按钮",定位方法: className-->android.widget.Button
+[2020-05-13 18:31:26,575]-anjing-INFO-test01获取toast信息为：请输入正确的手机号
+[2020-05-13 18:31:26,575]-anjing-INFO-test01获取toast信息为：请输入正确的手机号
+[2020-05-13 18:31:26,576]-anjing-INFO-用例名称：账号密码错误1，测试数据：账号名：222，密码：33333,
+[2020-05-13 18:31:26,576]-anjing-INFO-用例名称：账号密码错误1，测试数据：账号名：222，密码：33333,
+[2020-05-13 18:31:26,576]-element.py-INFO-正在获取用户名元素信息---------------------------------------
+[2020-05-13 18:31:26,582]-element.py-INFO-用户名元素信息为：{'name': '用户名', 'type': 'id', 'value': 'com.taobao.taobao:id/aliuser_login_mobile_et'}
+[2020-05-13 18:31:26,582]-Base.py-INFO-正在操作元素名称"用户名",定位方法: id-->com.taobao.taobao:id/aliuser_login_mobile_et
+[2020-05-13 18:31:27,178]-element.py-INFO-正在获取用户名元素信息-------------------------------------
+[2020-05-13 18:31:27,184]-element.py-INFO-密码元素信息为：{'name': '密码', 'type': 'android', 'value': 'resourceId("com.taobao.taobao:id/aliuser_register_sms_code_et")'}
+[2020-05-13 18:31:27,185]-Base.py-INFO-正在操作元素名称"密码",定位方法: android-->resourceId("com.taobao.taobao:id/aliuser_register_sms_code_et")
+[2020-05-13 18:31:28,288]-element.py-INFO-正在获取用户名元素信息-------------------------------------
+[2020-05-13 18:31:28,294]-element.py-INFO-登录按钮元素信息为：{'name': '登录按钮', 'type': 'className', 'value': 'android.widget.Button'}
+[2020-05-13 18:31:28,294]-Base.py-INFO-正在操作元素名称"登录按钮",定位方法: className-->android.widget.Button
+[2020-05-13 18:31:29,615]-anjing-INFO-test02获取toast信息为：请输入正确的手机号
+[2020-05-13 18:31:29,615]-anjing-INFO-test02获取toast信息为：请输入正确的手机号
+[2020-05-13 18:31:29,891]-anjing-ERROR-报错信息是'请输入正确的手机号' != '请输入正确的号'
+- 请输入正确的手机号
+?       --
++ 请输入正确的号
+
+[2020-05-13 18:31:29,891]-anjing-ERROR-报错信息是'请输入正确的手机号' != '请输入正确的号'
+- 请输入正确的手机号
+?       --
++ 请输入正确的号
+
+[2020-05-13 18:46:49,864]-anjing-INFO-测试设备列表：emulator-5554
+[2020-05-13 18:46:49,865]-anjing-INFO-输入adb命令，启动appium服务，输入命令如下：appium -p 4723 -U emulator-5554 --log  E:\appium_python\logs\appium_log.txt
+[2020-05-13 18:47:07,644]-anjing-INFO-app启动中
+[2020-05-13 18:47:07,644]-anjing-INFO-app启动中
+[2020-05-13 18:47:09,367]-anjing-INFO-测试设备列表：emulator-5554
+[2020-05-13 18:47:09,367]-anjing-INFO-测试设备列表：emulator-5554
+[2020-05-13 18:47:09,368]-anjing-INFO-输入adb命令，启动appium服务，输入命令如下：appium -p 4723 -U emulator-5554 --log  E:\appium_python\logs\appium_log.txt
+[2020-05-13 18:47:09,368]-anjing-INFO-输入adb命令，启动appium服务，输入命令如下：appium -p 4723 -U emulator-5554 --log  E:\appium_python\logs\appium_log.txt
+[2020-05-13 18:47:45,669]-anjing-INFO-app启动完成
+[2020-05-13 18:47:45,669]-anjing-INFO-app启动完成
+[2020-05-13 18:47:45,671]-anjing-INFO-用例名称：账号密码错误，测试数据：账号名：11111，密码：22222,
+[2020-05-13 18:47:45,671]-anjing-INFO-用例名称：账号密码错误，测试数据：账号名：11111，密码：22222,
+[2020-05-13 18:47:45,672]-element.py-INFO-正在获取用户名元素信息---------------------------------------
+[2020-05-13 18:47:45,680]-element.py-INFO-用户名元素信息为：{'name': '用户名', 'type': 'id', 'value': 'com.taobao.taobao:id/aliuser_login_mobile_et'}
+[2020-05-13 18:47:45,680]-Base.py-INFO-正在操作元素名称"用户名",定位方法: id-->com.taobao.taobao:id/aliuser_login_mobile_et
+[2020-05-13 18:47:49,734]-element.py-INFO-正在获取用户名元素信息-------------------------------------
+[2020-05-13 18:47:49,740]-element.py-INFO-密码元素信息为：{'name': '密码', 'type': 'android', 'value': 'resourceId("com.taobao.taobao:id/aliuser_register_sms_code_et")'}
+[2020-05-13 18:47:49,741]-Base.py-INFO-正在操作元素名称"密码",定位方法: android-->resourceId("com.taobao.taobao:id/aliuser_register_sms_code_et")
+[2020-05-13 18:47:51,626]-element.py-INFO-正在获取用户名元素信息-------------------------------------
+[2020-05-13 18:47:51,631]-element.py-INFO-登录按钮元素信息为：{'name': '登录按钮', 'type': 'className', 'value': 'android.widget.Button'}
+[2020-05-13 18:47:51,632]-Base.py-INFO-正在操作元素名称"登录按钮",定位方法: className-->android.widget.Button
+[2020-05-13 18:47:53,109]-anjing-INFO-test01获取toast信息为：请输入正确的手机号
+[2020-05-13 18:47:53,109]-anjing-INFO-test01获取toast信息为：请输入正确的手机号
+[2020-05-13 18:47:53,110]-anjing-INFO-用例名称：账号密码错误1，测试数据：账号名：222，密码：33333,
+[2020-05-13 18:47:53,110]-anjing-INFO-用例名称：账号密码错误1，测试数据：账号名：222，密码：33333,
+[2020-05-13 18:47:53,110]-element.py-INFO-正在获取用户名元素信息---------------------------------------
+[2020-05-13 18:47:53,116]-element.py-INFO-用户名元素信息为：{'name': '用户名', 'type': 'id', 'value': 'com.taobao.taobao:id/aliuser_login_mobile_et'}
+[2020-05-13 18:47:53,117]-Base.py-INFO-正在操作元素名称"用户名",定位方法: id-->com.taobao.taobao:id/aliuser_login_mobile_et
+[2020-05-13 18:47:54,446]-element.py-INFO-正在获取用户名元素信息-------------------------------------
+[2020-05-13 18:47:54,454]-element.py-INFO-密码元素信息为：{'name': '密码', 'type': 'android', 'value': 'resourceId("com.taobao.taobao:id/aliuser_register_sms_code_et")'}
+[2020-05-13 18:47:54,454]-Base.py-INFO-正在操作元素名称"密码",定位方法: android-->resourceId("com.taobao.taobao:id/aliuser_register_sms_code_et")
+[2020-05-13 18:47:55,522]-element.py-INFO-正在获取用户名元素信息-------------------------------------
+[2020-05-13 18:47:55,528]-element.py-INFO-登录按钮元素信息为：{'name': '登录按钮', 'type': 'className', 'value': 'android.widget.Button'}
+[2020-05-13 18:47:55,529]-Base.py-INFO-正在操作元素名称"登录按钮",定位方法: className-->android.widget.Button
+[2020-05-13 18:47:56,792]-anjing-INFO-test02获取toast信息为：请输入正确的手机号
+[2020-05-13 18:47:56,792]-anjing-INFO-test02获取toast信息为：请输入正确的手机号
+[2020-05-13 18:47:57,101]-anjing-ERROR-报错信息是'请输入正确的手机号' != '请输入正确的号'
+- 请输入正确的手机号
+?       --
++ 请输入正确的号
+
+[2020-05-13 18:47:57,101]-anjing-ERROR-报错信息是'请输入正确的手机号' != '请输入正确的号'
+- 请输入正确的手机号
+?       --
++ 请输入正确的号
+
+[2020-05-13 18:59:31,977]-anjing-INFO-测试设备列表：emulator-5554
+[2020-05-13 18:59:31,977]-anjing-INFO-测试设备列表：emulator-5554
+[2020-05-13 18:59:31,979]-anjing-INFO-输入adb命令，启动appium服务，输入命令如下：appium -p 4723 -U emulator-5554 --log  E:\appium_python\logs\appium_log.txt
+[2020-05-13 18:59:31,979]-anjing-INFO-输入adb命令，启动appium服务，输入命令如下：appium -p 4723 -U emulator-5554 --log  E:\appium_python\logs\appium_log.txt
+[2020-05-13 18:59:49,732]-anjing-INFO-app启动中
+[2020-05-13 18:59:49,732]-anjing-INFO-app启动中
+[2020-05-13 18:59:49,732]-anjing-INFO-app启动中
+[2020-05-13 18:59:51,224]-anjing-INFO-测试设备列表：emulator-5554
+[2020-05-13 18:59:51,224]-anjing-INFO-测试设备列表：emulator-5554
+[2020-05-13 18:59:51,224]-anjing-INFO-测试设备列表：emulator-5554
+[2020-05-13 18:59:51,225]-anjing-INFO-输入adb命令，启动appium服务，输入命令如下：appium -p 4723 -U emulator-5554 --log  E:\appium_python\logs\appium_log.txt
+[2020-05-13 18:59:51,225]-anjing-INFO-输入adb命令，启动appium服务，输入命令如下：appium -p 4723 -U emulator-5554 --log  E:\appium_python\logs\appium_log.txt
+[2020-05-13 18:59:51,225]-anjing-INFO-输入adb命令，启动appium服务，输入命令如下：appium -p 4723 -U emulator-5554 --log  E:\appium_python\logs\appium_log.txt
+[2020-05-13 19:00:30,807]-anjing-INFO-app启动完成
+[2020-05-13 19:00:30,807]-anjing-INFO-app启动完成
+[2020-05-13 19:00:30,807]-anjing-INFO-app启动完成
+[2020-05-13 19:00:30,809]-anjing-INFO-用例名称：账号密码错误，测试数据：账号名：11111，密码：22222,
+[2020-05-13 19:00:30,809]-anjing-INFO-用例名称：账号密码错误，测试数据：账号名：11111，密码：22222,
+[2020-05-13 19:00:30,809]-anjing-INFO-用例名称：账号密码错误，测试数据：账号名：11111，密码：22222,
+[2020-05-13 19:00:30,810]-element.py-INFO-正在获取用户名元素信息---------------------------------------
+[2020-05-13 19:00:30,816]-element.py-INFO-用户名元素信息为：{'name': '用户名', 'type': 'id', 'value': 'com.taobao.taobao:id/aliuser_login_mobile_et'}
+[2020-05-13 19:00:30,816]-Base.py-INFO-正在操作元素名称"用户名",定位方法: id-->com.taobao.taobao:id/aliuser_login_mobile_et
+[2020-05-13 19:00:32,974]-element.py-INFO-正在获取用户名元素信息-------------------------------------
+[2020-05-13 19:00:32,980]-element.py-INFO-密码元素信息为：{'name': '密码', 'type': 'android', 'value': 'resourceId("com.taobao.taobao:id/aliuser_register_sms_code_et")'}
+[2020-05-13 19:00:32,981]-Base.py-INFO-正在操作元素名称"密码",定位方法: android-->resourceId("com.taobao.taobao:id/aliuser_register_sms_code_et")
+[2020-05-13 19:00:34,700]-element.py-INFO-正在获取用户名元素信息-------------------------------------
+[2020-05-13 19:00:34,706]-element.py-INFO-登录按钮元素信息为：{'name': '登录按钮', 'type': 'className', 'value': 'android.widget.Button'}
+[2020-05-13 19:00:34,707]-Base.py-INFO-正在操作元素名称"登录按钮",定位方法: className-->android.widget.Button
+[2020-05-13 19:00:36,131]-anjing-INFO-test01获取toast信息为：请输入正确的手机号
+[2020-05-13 19:00:36,131]-anjing-INFO-test01获取toast信息为：请输入正确的手机号
+[2020-05-13 19:00:36,131]-anjing-INFO-test01获取toast信息为：请输入正确的手机号
+[2020-05-13 19:00:36,132]-anjing-INFO-用例名称：账号密码错误1，测试数据：账号名：222，密码：33333,
+[2020-05-13 19:00:36,132]-anjing-INFO-用例名称：账号密码错误1，测试数据：账号名：222，密码：33333,
+[2020-05-13 19:00:36,132]-anjing-INFO-用例名称：账号密码错误1，测试数据：账号名：222，密码：33333,
+[2020-05-13 19:00:36,133]-element.py-INFO-正在获取用户名元素信息---------------------------------------
+[2020-05-13 19:00:36,138]-element.py-INFO-用户名元素信息为：{'name': '用户名', 'type': 'id', 'value': 'com.taobao.taobao:id/aliuser_login_mobile_et'}
+[2020-05-13 19:00:36,138]-Base.py-INFO-正在操作元素名称"用户名",定位方法: id-->com.taobao.taobao:id/aliuser_login_mobile_et
+[2020-05-13 19:00:36,742]-element.py-INFO-正在获取用户名元素信息-------------------------------------
+[2020-05-13 19:00:36,751]-element.py-INFO-密码元素信息为：{'name': '密码', 'type': 'android', 'value': 'resourceId("com.taobao.taobao:id/aliuser_register_sms_code_et")'}
+[2020-05-13 19:00:36,751]-Base.py-INFO-正在操作元素名称"密码",定位方法: android-->resourceId("com.taobao.taobao:id/aliuser_register_sms_code_et")
+[2020-05-13 19:00:37,934]-element.py-INFO-正在获取用户名元素信息-------------------------------------
+[2020-05-13 19:00:37,940]-element.py-INFO-登录按钮元素信息为：{'name': '登录按钮', 'type': 'className', 'value': 'android.widget.Button'}
+[2020-05-13 19:00:37,940]-Base.py-INFO-正在操作元素名称"登录按钮",定位方法: className-->android.widget.Button
+[2020-05-13 19:00:39,585]-anjing-INFO-test02获取toast信息为：请输入正确的手机号
+[2020-05-13 19:00:39,585]-anjing-INFO-test02获取toast信息为：请输入正确的手机号
+[2020-05-13 19:00:39,585]-anjing-INFO-test02获取toast信息为：请输入正确的手机号

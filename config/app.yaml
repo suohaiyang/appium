@@ -1,0 +1,18 @@
+- devices: emulator-5554
+  port: 4730
+  desired_caps:
+    platformName: Android
+    deviceName: emulator-5554
+    appPackage: com.taobao.taobao
+    noReset:  !!bool True
+    appActivity: com.ali.user.mobile.login.ui.UserLoginActivity
+
+- devices: emulator-5556
+  port: 4740
+  desired_caps:
+    platformName: Android
+    deviceName: emulator-5556
+    appPackage: com.taobao.taobao
+    noReset:  !!bool True
+    appActivity: com.ali.user.mobile.login.ui.UserLoginActivity
+    automationName: uiautomator2

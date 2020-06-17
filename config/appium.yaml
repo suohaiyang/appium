@@ -1,0 +1,15 @@
+LoginPage:
+  dec: 登录
+  locators:
+    -
+      name: 用户名
+      type: id
+      value: com.taobao.taobao:id/aliuser_login_mobile_et
+    -
+      name: 密码
+      type: android
+      value: resourceId("com.taobao.taobao:id/aliuser_register_sms_code_et")
+    -
+      name: 登录按钮
+      type: className
+      value: android.widget.Button
